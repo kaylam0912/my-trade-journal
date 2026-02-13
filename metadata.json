@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TradeJournal AI",
+  "description": "An intelligent trading journal with analytics, Gemini-powered chat, and chart analysis capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
